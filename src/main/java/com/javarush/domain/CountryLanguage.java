@@ -65,3 +65,5 @@ public class CountryLanguage {
         this.percentage = percentage;
     }
 }
+
+

@@ -33,3 +33,4 @@ public class Language {
         this.percentage = percentage;
     }
 }
+
